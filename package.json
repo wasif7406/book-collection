@@ -7,7 +7,7 @@
     "build": "npm run build",
     "start": "npm run start",
     "lint": "npm run lint",
-    "lint:fix": "eslint src --fix && pnpm format",
+    "lint:fix": "eslint src --fix",
     "lint:strict": "eslint --max-warnings=0 src",
     "typecheck": "tsc --noEmit --incremental false",
     "test:watch": "jest --watch",
