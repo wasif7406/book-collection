@@ -29,6 +29,7 @@
     "tailwind-merge": "^2.1.0",
     "tw-elements-react": "^1.0.0-alpha2",
     "zod": "^3.22.4"
+    "vercel": "^34.2.8"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.3.0",
