@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { ReactReader } from 'react-reader'
 
-const EpubViewer = ({ url }) => {
+const EpubViewer = ({ }) => {
 const [location, setLocation] = useState<string | number>(0)
   return (
     <div style={{ height: '100vh' }}>
